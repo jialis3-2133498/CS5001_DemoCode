@@ -9,7 +9,13 @@ def main():
     # an otherwise empty code block is syntactically
     # acceptable in Python. Once you have some code in
     # main you can delete it. It doesn't do anything
-    pass
+    # pass
+    answer = input("Please answer yes or no: ")
+    # while (not (answer == 'yes' or answer == 'no')):
+    while (answer != 'yes' and answer != 'no'):
+        answer = input("You must answer yes or no: ")
+
+    print("Thank you for your satisfactory answer.")
 
 
 main()
