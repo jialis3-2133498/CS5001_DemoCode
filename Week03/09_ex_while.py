@@ -1,15 +1,26 @@
 
+# def main():
+#     word_input = None
+#     while ((word_input != 'yes') or (word_input != 'no')):
+#         word_input = in_lower("You must answer yes or no: ")  
+#     print("Thank you for your satisfactory answer")
+
+# def in_lower(user_input):
+#     return input(user_input).lower()
+# main()
+
+
+
+# def main():
+#     answer = input("Please answer yes or no.")
+#     while(not (answer == 'yes' or answer == 'no')):
+#         answer = input("You must answer yes or no: ")
+#     print("Thank you for your satisfactory answer")
+# main()
+
 def main():
-    # TODO: # As long as the input is anything other than "yes" or "no"
-    # continue to prompt the user with "You must answer yes or no"
-    # When the answer is either "yes" or "no"
-    # print "Thank you for your satisfactory answer"
-
-    # The 'pass' statement is simply a placeholder to ensure that
-    # an otherwise empty code block is syntactically
-    # acceptable in Python. Once you have some code in
-    # main you can delete it. It doesn't do anything
-    pass
-
-
+    answer = input("Please answer yes or no: ")
+    while(answer != 'yes' and answer != 'no'):
+        answer = input("You must answer yes or no: ")
+    print("Thank you for your satisfactory answer")
 main()

@@ -51,7 +51,7 @@ if (g is f):
 else:
     print("g is not identical to f")
 
-h = ''.join(f)
+h = ''.join(f) # The method to make two objects that share the same values.
 print(h)
 if (h is f):
     print("h is identical to f")
