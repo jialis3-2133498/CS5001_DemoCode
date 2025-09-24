@@ -1,5 +1,7 @@
 import sys # Built-in library
-
+# When use sys, have to use terminal to print out the result, instead of using the run botton
+# In terminal, the first index will always be the file name, that means in order to pass something in 
+#   from users, we need use sys.argv[1] or greater than 1
 
 # print(sys.argv) 
 # # Prints out a list of strings: ["02_triangle.py"]
