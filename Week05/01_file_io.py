@@ -6,7 +6,7 @@ def main(files):
     Summarizes poems
     """
     try:
-        out = open("results.txt", "w")
+        out = open("results.txt", "a")
     except OSError:
         print("Can't open results for writing")
         return
@@ -24,7 +24,15 @@ def main(files):
 
         author = ' '.join(f.readline().strip().split()[1:])
 
-        print(author)
+        line_count = 0
+        for _line in f:
+            line_count += 1
+
+        out.write("Processed poem: \n")
+        out.write(f"Title: {title}\n")
+        out.write(f"Author: {author}\n")
+        out.write(f"Lines: {line_count}\n")
+        out.write("\n")
 
 
 main(sys.argv[1:])
