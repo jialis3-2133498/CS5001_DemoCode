@@ -1,0 +1,951 @@
+@UTF8
+@Window:	0_0_0_0_35250_1_35961_0_35961_0
+@Begin
+@Languages:	eng, spa
+@Participants:	ST032 Participant, ST127 Participant
+@ID:	eng,spa|change_corpus_later|ST032||female|Spanish_speaker||Participant|||
+@ID:	spa,eng|change_corpus_later|ST127||female|English_speaker||Participant|||
+*ST032:	&-eh &-ts .
+@Comment:	Spanish_speaker writes in the chat 'HELOO JANE'.
+*ST127:	hello ?
+%mor:	co|hello ?
+*ST032:	hello .
+%mor:	co|hello .
+*ST127:	hey !
+%mor:	co|hey !
+*ST032:	hey &=laughs .
+%mor:	co|hey .
+*ST127:	&-uh .
+*ST032:	sorry sorry for my confuse &=laughs .
+%mor:	co|sorry adj|sorry prep|for det:poss|my v|confuse .
+*ST127:	&-oh no pasa nada &-uh okay &-ah &-hm &-t &-ah &+o olvidé
+	que &-ahm odio &=laughs el sitio web de MOOC tandem &-ah no
+	funciona bien &=laughs .
+%mor:	qn|no v|pasa n|nada co|okay v|olvidé pro:rel|que v|odio det:art|el
+	n|sitio n|web prep|de n:prop|MOOC n|tandem qn|no v|funciona adj|bien
+	.
+*ST032:	<xxx> [>] .
+*ST127:	<en mi> [<] en mi opinión &=laughs okay .
+%mor:	prep|en det:poss|mi prep|en det:poss|mi n|opinión co|okay .
+*ST032:	yes espera I I I one moment I I you you can you see me ?
+%mor:	co|yes v|espera pro:sub|I pro:sub|I pro:sub|I det:num|one n|moment
+	pro:sub|I pro:sub|I pro:per|you pro:per|you mod|can pro:per|you
+	v|see pro:obj|me ?
+*ST127:	no <&-eh> [>] .
+%mor:	co|no .
+*ST032:	<no> [<] .
+%mor:	co|no .
+*ST127:	I've clicked &-ahm webcam .
+%mor:	pro:sub|I~aux|have part|click-PASTP n|+n|web+n|cam .
+*ST032:	&-ah .
+*ST127:	el icono al el abajo de la pantalla .
+%mor:	det:art|el n|icono prep|a~det:art|l det:art|el adv|abajo prep|de
+	det:art|la n|pantalla .
+*ST032:	yes okay start sharing connect okay .
+%mor:	co|yes co|okay n|start part|share-PRESP v|connect adj|okay .
+@Comment:	English_speaker writes in the chat 'hello!'.
+*ST127:	&-hm .
+*ST032:	can you see me ?
+%mor:	mod|can pro:per|you v|see pro:obj|me ?
+*ST127:	&-eh where can I see you ?
+%mor:	pro:int|where mod|can pro:sub|I v|see pro:per|you ?
+*ST127:	I can only see myself &=laughs &-ah okay hola !
+%mor:	pro:sub|I mod|can adv|only v|see pro:refl|myself co|okay co|hola !
+*ST032:	hola buen día !
+%mor:	co|hola adj|buen n|día !
+*ST127:	&-uf okay &=laughs &-oh yes &-t he tardado &+mu &-hm quince
+	minutos en getting this ready &-ah .
+%mor:	co|okay co|yes v|he v|tardado det:num|quince n|minutos prep|en
+	v|getting det:dem|this adj|ready .
+*ST032:	&=laughs .
+*ST127:	&-ah okay &-ahm have you used tandem MOOC before ?
+%mor:	co|okay aux|have pro:per|you v|use-PAST n|tandem n:prop|MOOC
+	adv|before ?
+*ST032:	yes <at &-ah> [>] .
+%mor:	co|yes prep|at .
+*ST127:	<&-ah> [<] .
+*ST032:	last year I I do &-hm maybe <three or> [>] four &=laughs .
+%mor:	adj|last n|year pro:sub|I pro:sub|I v|do adv|maybe det:num|three
+	coord|or det:num|four .
+*ST127:	<xxx tea> [<] .
+%mor:	n|tea .
+@Comment:	showing her cup of tea.
+*ST032:	I I &-t I yet take my coffee &=laughs .
+%mor:	pro:sub|I pro:sub|I pro:sub|I adv:tem|yet v|take det:poss|my
+	n|coffee .
+*ST127:	&=laughs <yes> [>] .
+%mor:	co|yes .
+*ST032:	<you xxx> [<] no ?
+%mor:	pro:per|you co|no ?
+*ST127:	&+m my tea yes mi taza de té con las vacas vacas &-ups xxx
+	vacas .
+%mor:	det:poss|my n|tea co|yes det:poss|mi n|taza prep|de n|té prep|con
+	det:art|las n|vacas n|vacas n|vacas .
+*ST032:	&=laughs &-ah sí las vacas &-oh qué bonita &=laughs .
+%mor:	co|sí det:art|las n|vacas pro:int|qué adj|bonita .
+*ST127:	&=laughs &-ah yes &-eh sorry where are we &-ahm yes I did
+	tandem MOOC in twenty no in what year are we twenty nineteen .
+%mor:	co|yes co|sorry pro:rel|where cop|be&PRES pro:sub|we co|yes
+	pro:sub|I v|do&PAST n|tandem n:prop|MOOC prep|in det:num|twenty
+	co|no adv|in det:int|what n|year cop|be&PRES pro:sub|we
+	det:num|twenty det:num|nineteen .
+*ST032:	<yes> [>] .
+%mor:	co|yes .
+*ST127:	<I did> [<] that in twenty nineteen but I started on a French
+	course this year .
+%mor:	pro:sub|I v|do&PAST pro:dem|that prep|in det:num|twenty
+	det:num|nineteen conj|but pro:sub|I v|start-PAST prep|on det:art|a
+	n:prop|French v|course det:dem|this n|year .
+*ST032:	<&-huhuh> [>] .
+*ST127:	<so> [<] I decided I wouldn't do tandem MOOC this year <&-ah> [>] .
+%mor:	co|so pro:sub|I v|decide-PAST pro:sub|I mod|will&COND~neg|not v|do
+	n|tandem n:prop|MOOC det:dem|this n|year .
+*ST032:	<&+y yes> [<] me too this year I I don't I &+d I didn't any
+	tandem because I I work and &-f a lot of of things .
+%mor:	co|yes pro:obj|me adv|too det:dem|this n|year pro:sub|I pro:sub|I
+	mod|do~neg|not pro:sub|I pro:sub|I mod|do&PAST~neg|not qn|any
+	n|tandem conj|because pro:sub|I pro:sub|I v|work coord|and det:art|a
+	n|lot prep|of prep|of n|thing-PL .
+*ST127:	&-huhuh okay so did Name e-mail you and ask you to ?
+%mor:	co|okay adv|so v|do&PAST n:prop|Name n|e–mail pro:per|you coord|and
+	v|ask pro:per|you prep|to ?
+*ST032:	<yes> [>] .
+%mor:	co|yes .
+*ST127:	<okay> [<] she e-mailed me saying please please please
+	&+ple &=laughs we need you &-oh okay &=laughs .
+%mor:	co|okay pro:sub|she v|e–mailed pro:obj|me part|say-PRESP co|please
+	co|please v|please pro:sub|we v|need pro:per|you co|okay .
+*ST032:	&=laughs <in my> [>] in my case is the same is the same .
+%mor:	prep|in det:poss|my prep|in det:poss|my n|case cop|be&3S
+	det:art|the adj|same cop|be&3S det:art|the adj|same .
+*ST127:	<okay> [<] .
+%mor:	co|okay .
+*ST032:	Name &-hm write a mail and I I said yes okay &=laughs xxx .
+%mor:	n:prop|Name v|write det:art|a n|mail coord|and pro:sub|I pro:sub|I
+	v|say&PAST co|yes co|okay .
+*ST127:	&=laughs okay &-ahm I think she she needs the numbers I don't
+	know .
+%mor:	adj|okay pro:sub|I v|think pro:sub|she pro:sub|she v|need-3S
+	det:art|the n|number-PL pro:sub|I mod|do~neg|not v|know .
+*ST032:	yes <yes> [>] .
+%mor:	co|yes co|yes .
+*ST127:	<okay> [<] okay &-ah qué piensas &-ahm &-f en el sitio web de
+	tándem MOOC ?
+%mor:	co|okay co|okay pro:int|qué v|piensas prep|en det:art|el n|sitio
+	n|web prep|de n|tándem n:prop|MOOC ?
+*ST127:	&=laughs .
+*ST032:	<&+ma> [>] .
+*ST127:	<qué> [<] qué opinas ?
+%mor:	pro:int|qué pro:int|qué v|opinas ?
+*ST032:	&-ah the the &-ehm &-t creo que &-hm in English or in Spanish ?
+%mor:	det:art|the det:art|the v|creo pro:rel|que prep|in n:prop|English
+	coord|or prep|in n:prop|Spanish ?
+*ST127:	&-eh you decide &=laughs .
+%mor:	pro:per|you v|decide .
+*ST032:	okay I try to to speak in English .
+%mor:	adj|okay pro:sub|I v|try prep|to inf|to v|speak prep|in
+	n:prop|English .
+*ST127:	<&-huhuh> [>] .
+*ST032:	<if if> [<] not &-hm can I translate &-ahm &-t for me it's
+	the the the better option in tandem because I am &-t very busy
+	about work child it's roullete tandem because I I can do a
+	speak I connected and I &+m &+m &+m &-t by &-ah never I I do a
+	tandem with roullete tandem and I I &-hm .
+%mor:	conj|if comp|if neg|not mod|can pro:sub|I v|translate prep|for
+	pro:obj|me pro:per|it~cop|be&3S det:art|the det:art|the det:art|the
+	v|better n|option prep|in n|tandem conj|because pro:sub|I cop|be&1S
+	adv|very adj|busy prep|about n|work n|child pro:per|it~cop|be&3S
+	n|roullete n|tandem conj|because pro:sub|I pro:sub|I mod|can v|do
+	det:art|a v|speak pro:sub|I v|connect-PAST coord|and pro:sub|I
+	adv|by adv:tem|never pro:sub|I pro:sub|I v|do det:art|a n|tandem
+	prep|with n|roullete n|tandem coord|and pro:sub|I pro:sub|I .
+*ST127:	okay .
+%mor:	co|okay .
+*ST032:	creo que que es una buena opción lo de roullete pero que <no> [>]
+	funciona que no &+n .
+%mor:	v|creo pro:rel|que pro:rel|que cop|es det:art|una adj|buena n|opción
+	det:art|lo prep|de n|roullete conj|pero pro:rel|que co|no v|funciona
+	pro:rel|que co|no .
+*ST127:	<&-huhuh> [<] &=laughs &-ahm creo que &-ah lo he usado uno
+	uno dos <uno> [>] o dos veces .
+%mor:	v|creo pro:rel|que det:art|lo v|he v|usado det:num|uno det:num|uno
+	det:num|dos det:num|uno conj|o det:num|dos n|veces .
+*ST032:	<yo> [<] yo conseguí un roullete hace en &+u en un par de
+	ocasiones anteriores .
+%mor:	pro:sub|yo pro:sub|yo v|conseguí det:art|un n|roullete prep|hace
+	prep|en prep|en det:art|un n|par prep|de n|ocasiones adj|anterior-PL
+	.
+*ST127:	<&-huhuh> [>] .
+*ST032:	<pero> [<] es muy o sea muchas veces he ido a roullete y no no
+	hay nadie &+conec nadie disponible .
+%mor:	conj|pero cop|es adv|muy conj|o_sea det:qn|muchas n|veces v|he
+	v|ido prep|a n|roullete conj|y co|no qn|no v|hay n|nadie
+	n|nadie adj|disponible .
+*ST127:	&=laughs sí sí &-ahm <that's right> [>] .
+%mor:	co|sí co|sí pro:rel|that~cop|be&3S co|right .
+*ST032:	<entiendo> [<] hacer un meet con &-t mis horarios son un poco
+	difíciles <y y> [>] .
+%mor:	v|entiendo v|hacer det:art|un v|meet prep|con det:poss|mis
+	n|horarios cop|son det:art|un adv|poco adj|difíciles conj|y conj|y .
+*ST127:	<&-huhuh> [<] .
+*ST032:	para mí es difícil &-ah pues hoy a tal hora &+s &+s <&+s sería
+	muy xxx> [>] .
+%mor:	prep|para pro:obj|mí cop|es adj|difícil co|pues adv|hoy prep|a
+	adj|tal n|hora cop|sería adv|muy .
+*ST127:	<&-huhuh pero> [<] es es mejor &-ah organizar &-eh un <&+ci
+	una cita en un una hora> [>] sí &-huhuh .
+%mor:	conj|pero cop|es cop|es adv|mejor v|organizar det:art|un det:art|una
+	n|cita prep|en det:art|un det:art|una n|hora co|sí .
+*ST032:	<sí sí> [<] <pero a veces a veces> [>] .
+%mor:	co|sí co|sí conj|pero adv|a_veces adv|a_veces .
+*ST127:	<&-uh como nosotras> [<] &=laughs .
+%mor:	adv|como n|nosotras .
+*ST032:	sí sí .
+%mor:	co|sí co|sí .
+*ST127:	okay .
+%mor:	co|okay .
+*ST032:	pero but now &-ahm &-t today it's my free day and and I I
+	have plenty of time but <not not> [>] ever .
+%mor:	conj|pero conj|but adv:tem|now adv:tem|today pro:per|it~cop|be&3S
+	det:poss|my adj|free n|day coord|and coord|and pro:sub|I pro:sub|I
+	v|have adv|plenty prep|of n|time conj|but neg|not neg|not adv|ever .
+*ST127:	<okay> [<] .
+%mor:	co|okay .
+*ST032:	and and I &-t I am do work about my &+j my students I put
+	the the marks and and <and> [>] .
+%mor:	coord|and coord|and pro:sub|I pro:sub|I cop|be&1S mod|do v|work
+	prep|about det:poss|my det:poss|my n|student-PL pro:sub|I v|put&ZERO
+	det:art|the det:art|the n|mark-PL coord|and coord|and coord|and .
+*ST127:	<your &+st> [<] students ?
+%mor:	det:poss|your n|student-PL ?
+*ST032:	yes <and ever are> [>] occupp(i)ed I'm busy yes .
+%mor:	co|yes coord|and adv|ever cop|be&PRES v|occuppied
+	pro:sub|I~cop|be&1S adj|busy co|yes .
+*ST127:	<your students okay> [<] &-huhuh &-ah so you're a teacher what
+	do you teach ?
+%mor:	det:poss|your n|student-PL adj|okay conj|so pro:per|you~cop|be&PRES
+	det:art|a n|teach&dv-AGT pro:int|what mod|do pro:per|you v|teach ?
+*ST032:	I I am a teacher in &-ahm secondary school <in> [>] .
+%mor:	pro:sub|I pro:sub|I cop|be&1S det:art|a n|teach&dv-AGT prep|in
+	adj|secondary n|school adv|in .
+*ST127:	<&-huhuh> [<] .
+*ST032:	&-ah students have fourteen <fifteen> [>] years .
+%mor:	n|student-PL v|have det:num|fourteen det:num|fifteen n|year-PL .
+*ST127:	<students> [<] <students> [>] .
+%mor:	n|student-PL n|student-PL .
+*ST032:	<students> [<] .
+%mor:	n|student-PL .
+*ST127:	students <&-huhuh> [>] .
+%mor:	n|student-PL .
+*ST032:	<students> [<] have &-ah fourteen &-hm .
+%mor:	n|student-PL v|have det:num|fourteen .
+*ST127:	&-oh they are fourteen <they are> [>] fourteen years old ?
+%mor:	pro:sub|they cop|be&PRES det:num|fourteen pro:sub|they cop|be&PRES
+	det:num|fourteen n|year-PL adj|old ?
+*ST032:	<yes> [<] <yes> [>] they are fourteen years old .
+%mor:	co|yes co|yes pro:sub|they cop|be&PRES det:num|fourteen n|year-PL
+	adj|old .
+*ST127:	<&-huhuh> [<] okay &-huhuh and what subjects do you teach ?
+%mor:	co|okay coord|and pro:int|what v|subject-3S mod|do pro:per|you
+	v|teach ?
+*ST032:	&-ahm history <&+so &+soc> [>] sociales .
+%mor:	n|history n:adj|social-PL .
+*ST127:	<&-huhuh> [<] .
+*ST032:	I I think is it's the same socials <history> [>] &-hm .
+%mor:	pro:sub|I pro:sub|I v|think aux|be&3S pro:per|it~cop|be&3S
+	det:art|the adj|same n:adj|social-PL n|history .
+*ST127:	<okay> [<] <okay> [>] .
+%mor:	co|okay co|okay .
+*ST032:	<but I mean> [<] &-t my I try to to do to to become teacher
+	of &-ahm of labor &+oren orientation <because I I> [>] .
+%mor:	conj|but pro:sub|I v|mean det:poss|my pro:sub|I v|try prep|to
+	inf|to v|do inf|to inf|to cop|become n|teach&dv-AGT prep|of prep|of
+	n|labor n|orientate&dv-TION conj|because pro:sub|I pro:sub|I .
+*ST127:	<&+la labor orientation> [<] <work> [>] ?
+%mor:	n|labor n|orientate&dv-TION n|work ?
+*ST032:	<yes> [<] because I I have two two jobs .
+%mor:	co|yes conj|because pro:sub|I pro:sub|I v|have det:num|two
+	det:num|two n|job-PL .
+*ST127:	<&-oh okay> [>] .
+%mor:	co|okay .
+*ST032:	<one> [<] is teacher and the other is &-ahm &-ah &-f couch about
+	atheletes about &-ahm &-t help athletes to to try the her or
+	his his degree or to search job .
+%mor:	det:num|one aux|be&3S n|teach&dv-AGT coord|and det:art|the qn|other
+	cop|be&3S v|couch prep|about n|atheletes adv|about co|help
+	n|athlete-PL inf|to inf|to v|try det:art|the pro:obj|her coord|or
+	det:poss|his det:poss|his n|degree coord|or prep|to n|search n|job .
+*ST127:	&-huhuh .
+*ST032:	do you understand ?
+%mor:	mod|do pro:per|you v|understand ?
+*ST127:	okay I think so <did you> [>] say athletes ?
+%mor:	adj|okay pro:sub|I v|think co|so mod|do&PAST pro:per|you co|say
+	n|athlete-PL ?
+*ST032:	<&-huhuh> [<] <yes because I'm &-ah> [>] .
+%mor:	co|yes conj|because pro:sub|I~cop|be&1S .
+*ST127:	<athletes &+ath> [<] okay .
+%mor:	n|athlete-PL adj|okay .
+*ST032:	sportive people .
+%mor:	adj|sportive n|person&PL .
+*ST127:	&-huhuh okay .
+%mor:	co|okay .
+*ST032:	because only only my my costumers are are this qualitative .
+%mor:	conj|because adv|only adv|only co|my co|my n|costume&dv-AGT-PL
+	cop|be&PRES aux|be&PRES det:dem|this adj|qualitative .
+*ST127:	okay allright shall we try the spot the difference ?
+%mor:	co|okay co|allright mod|shall pro:sub|we v|try det:art|the n|spot
+	det:art|the n|difference ?
+*ST032:	<okay> [>] .
+%mor:	co|okay .
+*ST127:	<because> [<] &-ah Name asked me &=laughs &-ah <help me>
+	[>] to do this .
+%mor:	conj|because n:prop|Name v|ask-PAST pro:obj|me v|help pro:obj|me
+	inf|to v|do pro:dem|this .
+*ST032:	<Name> [<] okay <okay> [>] .
+%mor:	n:prop|Name adj|okay adj|okay .
+*ST127:	<okay> [<] &-ah I have wait &-ahm trying to remember how to
+	find the &-ah <&-ah &-ah> [>] .
+%mor:	adj|okay pro:sub|I v|have co|wait part|try-PRESP inf|to v|remember
+	pro:int|how inf|to v|find det:art|the .
+*ST032:	<&-ahm> [<] espera .
+%mor:	v|espera .
+*ST127:	&-ay .
+*ST032:	I don't I don't remember start tandem <now> [>] yes .
+%mor:	pro:sub|I mod|do~neg|not pro:sub|I mod|do~neg|not v|remember
+	n|start n|tandem adv:tem|now co|yes .
+*ST127:	<no> [<] ?
+%mor:	co|no ?
+*ST127:	okay where is it ?
+%mor:	co|okay pro:rel|where cop|be&3S pro:per|it ?
+*ST032:	&-ah .
+*ST127:	&-hm &-hm .
+*ST032:	we are not connected with your tandem partner &=laughs <&-oh> [>] .
+%mor:	pro:sub|we aux|be&PRES neg|not part|connect-PASTP prep|with
+	det:poss|your n|tandem n|partner .
+*ST127:	<no> [<] I can't find &-ah <I can't> [>] .
+%mor:	co|no pro:sub|I mod|can~neg|not v|find pro:sub|I mod|can~neg|not .
+*ST032:	<show> [<] task show task ?
+%mor:	n|show n|task n|show n|task ?
+*ST127:	&-hm &-hm &-hm .
+*ST032:	I don't I don't <I> [>] .
+%mor:	pro:sub|I mod|do~neg|not pro:sub|I mod|do~neg|not pro:sub|I .
+*ST127:	<I can't> [<] I can't find the &=laughs .
+%mor:	pro:sub|I mod|can~neg|not pro:sub|I mod|can~neg|not v|find
+	det:art|the .
+*ST032:	I xxx you I I &-t I know I have two two windows in in in I
+	don't .
+%mor:	pro:sub|I pro:per|you pro:sub|I pro:sub|I pro:sub|I v|know
+	pro:sub|I aux|have det:num|two det:num|two n|window-PL adv|in adv|in
+	adv|in pro:sub|I mod|do~neg|not .
+*ST127:	yes yes &+y yo también &-ahm si &-eh no funciona okay <yes
+	&-ahm well> [>] .
+%mor:	co|yes co|yes pro:sub|yo adv|también conj|si co|no v|funciona
+	co|okay co|yes co|well .
+*ST032:	<debería yes I I> [<] I .
+%mor:	v|debería co|yes pro:sub|I pro:sub|I pro:sub|I .
+*ST127:	I haven't found it &=laughs .
+%mor:	pro:sub|I aux|have~neg|not part|find&PASTP pro:per|it .
+*ST032:	mira before you start with the picture <activity> [>] find out
+	more about your tandem partner .
+%mor:	v|mira adv|before pro:per|you v|start prep|with det:art|the
+	n|picture n|active&dadj-ITY v|find adv|out adv|more prep|about
+	det:poss|your n|tandem n|partner .
+*ST127:	<&-huhuh> [<] <okay> [>] .
+%mor:	co|okay .
+*ST032:	<here are> [<] some questions you can ask &-ah vale okay &-ah
+	&-ahm I I I see the the tandem <and> [>] .
+%mor:	pro:exist|here cop|be&PRES pro:indef|some n|question-PL pro:per|you
+	mod|can v|ask co|vale adj|okay pro:sub|I pro:sub|I pro:sub|I v|see
+	det:art|the det:art|the n|tandem coord|and .
+*ST127:	<&-huhuh> [<] .
+*ST032:	the tandem said &-ah to to make questions &-ah which &-ahm
+	you and me <about> [>] about where do you live .
+%mor:	det:art|the n|tandem v|say&PAST prep|to inf|to v|make n|question-PL
+	pro:rel|which pro:per|you coord|and pro:obj|me adv|about prep|about
+	pro:int|where mod|do pro:per|you v|live .
+*ST127:	<&-huhuh> [<] okay &-huhuh .
+%mor:	co|okay .
+*ST032:	&+we &+h what is you job and .
+%mor:	pro:int|what cop|be&3S pro:per|you n|job coord|and .
+*ST127:	okay allright so <I ask> [>] so I ask you in English and you
+	answer me in English .
+%mor:	co|okay co|allright co|so pro:sub|I v|ask co|so pro:sub|I v|ask
+	pro:per|you prep|in n:prop|English coord|and pro:per|you v|answer
+	pro:obj|me prep|in n:prop|English .
+*ST032:	<well> [<] .
+%mor:	co|well .
+*ST127:	and then you ask me in Spanish okay <&-ah well> [>] I think
+	we've already &=laughs .
+%mor:	coord|and adv:tem|then pro:per|you v|ask pro:obj|me prep|in
+	n:prop|Spanish adj|okay n|well pro:sub|I v|think pro:sub|we~aux|have
+	adv|already .
+*ST032:	<okay> [<] yes .
+%mor:	co|okay co|yes .
+*ST127:	where do you live ?
+%mor:	pro:int|where mod|do pro:per|you v|live ?
+*ST127:	&=laughs there we go .
+%mor:	adv|there pro:sub|we v|go .
+*ST032:	&-ah I I live in Santpedor it's a a little village near &-ah
+	&-pf &-ah about one hour to &-hm distance of Barcelona .
+%mor:	pro:sub|I pro:sub|I v|live prep|in n:prop|Santpedor
+	pro:per|it~cop|be&3S det:art|a det:art|a adj|little n|village
+	prep|near prep|about det:num|one n|hour prep|to n|distance prep|of
+	n:prop|Barcelona .
+*ST127:	okay <&-huhuh> [>] .
+%mor:	co|okay .
+*ST032:	<an hour> [<] maybe but it's it's a &-hm &-t a village with
+	&-hm is near is a mountain no the mountain no the the xxxs and
+	and it's it's quite &-ehm it's quite quite tranquila ?
+%mor:	det:art|a n|hour adv|maybe conj|but pro:per|it~cop|be&3S
+	pro:per|it~cop|be&3S det:art|a det:art|a n|village prep|with
+	cop|be&3S adj|near cop|be&3S det:art|a n|mountain co|no det:art|the
+	n|mountain co|no det:art|the det:art|the n|xxxs coord|and coord|and
+	pro:per|it~cop|be&3S pro:per|it~cop|be&3S adv|quite
+	pro:per|it~cop|be&3S adv|quite adv|quite adj|tranquila ?
+*ST032:	no &-hm <xxx> [>] .
+%mor:	co|no .
+*ST127:	<it's> [<] quiet yes <it's> [>] quiet quiet &-huhuh .
+%mor:	pro:per|it~cop|be&3S adj|quiet co|yes pro:per|it~cop|be&3S
+	adj|quiet n|quiet .
+*ST032:	<quiet> [<] sí .
+%mor:	n|quiet co|sí .
+*ST127:	&-huhuh okay peaceful &=laughs .
+%mor:	co|okay adj|peace&dn-FULL .
+*ST032:	yes y tú dónde vives Name ?
+%mor:	co|yes conj|y pro:sub|tú pro:int|dónde v|vives n:prop|Name ?
+*ST127:	&-ah vivo en Lincolnshire &-ah es una región &-ahm al este de
+	Inglaterra &-ah .
+%mor:	v|vivo prep|en n:prop|Lincolnshire cop|es det:art|una n|región
+	prep|a~det:art|l n|este prep|de n:prop|Inglaterra .
+*ST032:	&-huhuh .
+*ST127:	es es tranquila &-ah aquí &-ah también &-ahm un poco &+abr
+	aburrido &=laughs .
+%mor:	cop|es cop|es adj|tranquila adv|aquí adv|también det:art|un adv|poco
+	adj|aburrido .
+*ST032:	aburrida aburrida .
+%mor:	adj|aburrida adj|aburrida .
+*ST127:	aburrida aburrida &=laughs &-ahm pero muy muy tranquila &-ah
+	hay muchos campos y <granjeros> [>] &-ah .
+%mor:	adj|aburrida adj|aburrida conj|pero adv|muy adv|muy adj|tranquila
+	v|hay det:qn|muchos n|campos conj|y n|granjeros .
+*ST032:	<&-huhuh> [<] .
+*ST127:	y &-t &-ah una una gran ciudad que se llama &-ah Lincoln
+	Lincoln &-hm &-hm &-hm &-hm &-ah tiene una &+cati catedral muy
+	bonita &-huhuh .
+%mor:	conj|y det:art|una det:art|una adj|gran n|ciudad pro:rel|que
+	pro:pers|se v|llama n:prop|Lincoln n:prop|Lincoln v|tiene
+	det:art|una n|catedral adv|muy adj|bonita .
+@Comment:	'&-hm's - singing.
+@Comment:	English_speaker writes in the chat 'Lincoln'.
+*ST032:	&-huhuh .
+*ST127:	&-ah okay .
+%mor:	co|okay .
+*ST032:	&+tie tiene &-hm tienes playa cerca de tu ?
+%mor:	v|tiene v|tienes n|playa adv|cerca prep|de det:poss|tu ?
+*ST127:	&-ahm &-ah acerca de &+vein veinte <no> [>] treinta &+ki
+	kilómetros .
+%mor:	adv|acerca prep|de det:num|veinte co|no det:num|treinta n|kilómetros
+	.
+*ST032:	<kilómetros> [<] <kilómetros> [>] .
+%mor:	n|kilómetros n|kilómetros .
+*ST127:	<&-ah de> [<] de aquí .
+%mor:	prep|de prep|de adv|aquí .
+*ST032:	&-huhuh .
+*ST127:	&-t &-ahm así que no no no la voy mucho &=laughs .
+%mor:	conj|así_que co|no co|no co|no det:art|la v|voy adv|mucho .
+*ST032:	ya no voy mucho no <voy mucho> [>] .
+%mor:	adv|ya qn|no v|voy adv|mucho co|no v|voy adv|mucho .
+*ST127:	<no voy> [<] no voy mucho no no .
+%mor:	co|no v|voy co|no v|voy adv|mucho co|no co|no .
+*ST032:	&-huhuh .
+*ST127:	&-ah tengo cincuenta y tres años &-ah estoy jubilada &-ahm &-t
+	<qué más> [>] ?
+%mor:	v|tengo det:num|cincuenta conj|y det:num|tres n|años v|estoy
+	adj|jubilada pro:int|qué adv|más ?
+*ST032:	<muy joven> [<] !
+%mor:	adv|muy adj|joven !
+*ST127:	<&-ah porque> [>] &-ahm tengo &+disc discapacidad &-ah .
+%mor:	conj|porque v|tengo adj|discapacidad .
+*ST032:	<xxx> [<] &-huhuh .
+*ST127:	&-eh trabajaba en un banco &-pf hace muchos años &=laughs .
+%mor:	v|trabajaba prep|en det:art|un n|banco prep|hace det:num|muchos
+	n|años .
+*ST032:	&=laughs .
+*ST127:	&-ah desde hace muchos años y &-ah tengo una hija &-ah de
+	&-ah veintiún años .
+%mor:	prep|desde prep|hace det:num|muchos n|años conj|y v|tengo
+	det:art|una n|hija prep|de det:num|veintiún n|años .
+*ST032:	<&-huhuh> [<] veintiuno .
+%mor:	n|veintiuno .
+*ST127:	&-ahm estudia &-ahm la ciencia forénsica <&-hm> [>] .
+%mor:	v|estudia det:art|la n|ciencia adj|forénsica .
+*ST032:	<sí> [<] <forense> [>] .
+%mor:	co|sí adj|forense .
+*ST127:	<&-eh &-eh> [<] forense .
+%mor:	adj|forense .
+*ST032:	&-huhuh .
+*ST127:	&-ah en una universidad &-ahm en Torpe &-t okay <yo &-ah
+	xxx> [>] .
+%mor:	prep|en det:art|una n|universidad prep|en n:prop|Torpe adj|okay
+	pro:sub|yo .
+*ST032:	<en qué curso> [<] en qué curso está tu hija ?
+%mor:	prep|en pro:int|qué n|curso prep|en pro:int|qué n|curso det:dem|está
+	det:poss|tu n|hija ?
+*ST032:	en qué &-ahm .
+%mor:	prep|en pro:int|qué .
+*ST127:	su curso es <la la> [>] ciencia forense .
+%mor:	det:poss|su n|curso cop|es det:art|la det:art|la n|ciencia
+	adj|forense .
+*ST032:	<etapa &-huhuh> [<] no <primero> [>] segundo tercero &+h how .
+%mor:	n|etapa co|no det:num|primero det:num|segundo det:num|tercero
+	pro:rel|how .
+*ST127:	<sí no> [<] ?
+%mor:	co|sí co|no ?
+*ST127:	&-ah sí sí &-oh del del segundo año .
+%mor:	co|sí co|sí prep|de~det:art|l prep|de~det:art|l det:num|segundo
+	n|año .
+*ST032:	&-huhuh .
+*ST127:	&-ah porque &-ah había suspendido &=laughs <la primera> [>] la
+	&+prim &-eh el primero año dos veces .
+%mor:	conj|porque v|había v|suspendido det:art|la det:num|primera
+	det:art|la det:art|el det:num|primero n|año det:num|dos n|veces .
+*ST032:	<&-ah bueno> [<] el primer sí <el primer> [>] año es muy duro .
+%mor:	co|bueno det:art|el det:num|primer co|sí det:art|el det:num|primer
+	n|año cop|es adv|muy adj|duro .
+*ST127:	<&-ah> [<] &-huhuh <sí> [>] sí .
+%mor:	co|sí co|sí .
+*ST032:	<no> [<] ?
+%mor:	co|no ?
+*ST127:	&-ahm pero ahora &-hm creo <que> [>] &+e &+e es &-hm espero que
+	sea mejor &=laughs .
+%mor:	conj|pero adv|ahora v|creo pro:rel|que cop|es v|espero pro:rel|que
+	cop|sea adj|mejor .
+*ST032:	<sí> [<] sí .
+%mor:	co|sí co|sí .
+*ST127:	&-ahm sí sí &-t a pesar del covid etcétera &=laughs .
+%mor:	co|sí co|sí prep|a n|pesar prep|de~det:art|l n|covid n|etcétera .
+*ST032:	lo hace online o presencial ?
+%mor:	det:art|lo v|hace adj|online conj|o adj|presencial ?
+*ST127:	&-ahm sí normalmente es &-ah cara a cara pero &-ahm a causa
+	de &-ah las restricciones .
+%mor:	co|sí adv|normalmente cop|es n|cara prep|a n|cara conj|pero prep|a
+	n|causa prep|de det:art|las n|restricciones .
+*ST032:	sí .
+%mor:	co|sí .
+*ST127:	&-ah casi todo &-ah el curso es está en línea <sí sí> [>] es
+	difícil .
+%mor:	adv|casi det:qn|todo det:art|el n|curso cop|es v|está prep|en
+	n|línea co|sí co|sí cop|es adj|difícil .
+*ST032:	<sí &+a> [<] aquí here the same in &+Sp in aquí &-ah
+	university it's online in this &+y this this day todays
+	nowadays online <to do a> [>] covid &+bef .
+%mor:	co|sí adv|aquí adv|here det:art|the adj|same adv|in prep|in adv|aquí
+	n|university pro:per|it~cop|be&3S adj|online prep|in det:dem|this
+	det:dem|this det:dem|this n|day n|today-PL adv:tem|nowadays
+	adj|online inf|to v|do det:art|a n|covid .
+*ST127:	<&-huhuh> [<] &-hm .
+*ST032:	but vale .
+%mor:	conj|but co|vale .
+*ST127:	very hard yes &=laughs &-ah estoy cansada &-ahm &+n no mucho
+	más hola &=laughs .
+%mor:	adv|very adv|hard co|yes v|estoy adj|cansada co|no det:qn|mucho
+	adv|más co|hola .
+@Comment:	Someone on the background of Spanish_speaker.
+*ST032:	my husband my husband &=laughs .
+%mor:	det:poss|my n|husband det:poss|my n|husband .
+*ST127:	&-ahm &-ah tu hijo marido no ?
+%mor:	det:poss|tu n|hijo n|marido co|no ?
+*ST032:	marido my <husband> [>] .
+%mor:	n|marido det:poss|my n|husband .
+*ST127:	<marido> [<] sí sí marido .
+%mor:	n|marido co|sí co|sí n|marido .
+*ST032:	I I have two children .
+%mor:	pro:sub|I pro:sub|I v|have det:num|two n|child&PL .
+*ST127:	&-huhuh .
+*ST032:	one one son and one daughter .
+%mor:	det:num|one qn|one n|son coord|and det:num|one n|daughter .
+*ST127:	one son .
+%mor:	det:num|one n|son .
+*ST032:	one son &-ah he are &-ah fifteen sixteen seventeen years old
+	seventeen <diecisiete> [>] .
+%mor:	det:num|one n|son pro:sub|he cop|be&PRES det:num|fifteen
+	det:num|sixteen det:num|seventeen n|year-PL adj|old
+	det:num|seventeen det:num|diecisiete .
+*ST127:	<he> [<] he is he is <seventeen years old> [>] &-huhuh .
+%mor:	pro:sub|he pro:sub|he cop|be&3S pro:sub|he cop|be&3S
+	det:num|seventeen n|year-PL adj|old .
+*ST032:	<he is he is> [<] he is seventeen years old .
+%mor:	pro:sub|he cop|be&3S pro:sub|he cop|be&3S pro:sub|he cop|be&3S
+	det:num|seventeen n|year-PL adj|old .
+*ST127:	okay .
+%mor:	co|okay .
+*ST032:	and &+m and my daughter &-ah &+h she is fourteen years old .
+%mor:	coord|and coord|and det:poss|my n|daughter pro:sub|she cop|be&3S
+	det:num|fourteen n|year-PL adj|old .
+*ST127:	&-hm &-t okay &-hm <xxx xxx &-uh> [>] .
+%mor:	co|okay .
+*ST032:	<and I and I am> [<] and I am forty nine I <I am> [>] no .
+%mor:	coord|and pro:sub|I coord|and pro:sub|I cop|be&1S coord|and
+	pro:sub|I cop|be&1S det:num|forty det:num|nine pro:sub|I pro:sub|I
+	cop|be&1S co|no .
+*ST127:	<&-huhuh> [<] <yes> [>] .
+%mor:	co|yes .
+*ST032:	<I have> [<] <forty nine years> [>] .
+%mor:	pro:sub|I v|have det:num|forty det:num|nine n|year-PL .
+*ST127:	<no no no> [<] no you were right <I am> [>] .
+%mor:	co|no co|no co|no co|no pro:per|you cop|be&PAST adv|right pro:sub|I
+	cop|be&1S .
+*ST032:	<I am> [<] <okay> [>] .
+%mor:	pro:sub|I cop|be&1S co|okay .
+*ST127:	<I am> [<] yes &-huhuh .
+%mor:	pro:sub|I cop|be&1S co|yes .
+*ST032:	forty nine &=laughs .
+%mor:	det:num|forty det:num|nine .
+*ST127:	&-hm okay pues &-ehm empecemos was this a qué a qué se
+	<dedica tu pareja> [>] .
+%mor:	co|okay co|pues v|empecemos cop|be&PAST&13S det:dem|this prep|a
+	pro:int|qué prep|a pro:int|qué pro:pers|se v|dedica det:poss|tu
+	n|pareja .
+*ST032:	<the job vale> [<] .
+%mor:	det:art|the n|job co|vale .
+*ST127:	&-ah sí sí &-ah &-ah &-ah okay &-ahm I think we've answered
+	these questions have you ?
+%mor:	co|sí co|sí adj|okay pro:sub|I v|think pro:sub|we~aux|have
+	part|answer-PASTP det:dem|these n|question-PL aux|have pro:per|you ?
+*ST127:	have we ?
+%mor:	v|have pro:sub|we ?
+*ST127:	yes .
+%mor:	co|yes .
+*ST032:	yes no ?
+%mor:	co|yes co|no ?
+*ST127:	xxx see &-ah &-oh una una pregunta para ti &-ahm por qué
+	&-oh in sorry in English <&-ahm> [>] why why do you want to
+	learn English ?
+%mor:	co|see det:art|una det:art|una n|pregunta prep|para pro:obj|ti
+	prep|por pro:int|qué adv|in adj|sorry prep|in n:prop|English
+	pro:rel|why pro:rel|why mod|do pro:per|you v|want inf|to v|learn
+	n:prop|English ?
+*ST032:	<sí> [<] &-pr because &-hm I I don't know &=laughs I I &-t
+	es es mi espina no sé &+com is my &-t is my &+p my pendant
+	task because I I &-t I love study but but English for me
+	it's &-pf it's very difficult it's my my obsession because for
+	me .
+%mor:	co|sí conj|because pro:sub|I pro:sub|I mod|do~neg|not v|know
+	pro:sub|I pro:sub|I cop|es cop|es det:poss|mi n|espina co|no v|sé
+	aux|be&3S co|my aux|be&3S co|my det:poss|my n|pendant n|task
+	conj|because pro:sub|I pro:sub|I pro:sub|I n|love n|study conj|but
+	conj|but n:prop|English prep|for pro:obj|me pro:per|it~cop|be&3S
+	pro:per|it~cop|be&3S adv|very adj|difficult pro:per|it~cop|be&3S
+	co|my det:poss|my n|obsession conj|because prep|for pro:obj|me .
+*ST127:	&=laughs .
+*ST032:	and and I I try I try but <&-ahm> [>] &-ah sobre todo hablar .
+%mor:	coord|and coord|and pro:sub|I pro:sub|I v|try pro:sub|I v|try
+	conj|but prep|sobre det:qn|todo v|hablar .
+*ST127:	<&-huhuh> [<] .
+*ST032:	I I <I> [>] I do the grammar well .
+%mor:	pro:sub|I pro:sub|I pro:sub|I pro:sub|I v|do det:art|the n|grammar
+	adv|well .
+*ST127:	<&-huhuh> [<] <&-huhuh> [>] .
+*ST032:	<and> [<] I read but <but> [>] talk I I +/.
+%mor:	coord|and pro:sub|I v|read&ZERO conj|but conj|but n|talk pro:sub|I
+	pro:sub|I +/.
+*ST127:	<&-huhuh> [<] yes la la the pronunciation is very difficult
+	<isn't it> [>] ?
+%mor:	co|yes co|la co|la det:art|the n|pronunciation cop|be&3S adv|very
+	adj|difficult cop|be&3S~neg|not pro:per|it ?
+*ST032:	<yes> [<] .
+%mor:	co|yes .
+*ST127:	yes compared to &+Spai Spanish which is really easy <&-oh xxx>
+	[>] .
+%mor:	co|yes v|compare-PAST prep|to n:prop|Spanish pro:rel|which
+	cop|be&3S adv|real&dadj-LY adj|ease&dn-Y .
+*ST032:	<&-oh> [<] really ?
+%mor:	adv|real&dadj-LY ?
+*ST032:	&=laughs .
+*ST127:	I'm so sorry &=laughs it's all my fault &=laughs .
+%mor:	pro:sub|I~cop|be&1S adv|so co|sorry pro:per|it~cop|be&3S adv|all
+	det:poss|my n|fault .
+*ST032:	no no xxx .
+%mor:	co|no co|no .
+*ST127:	okay so &+y you just learnt English for pleasure or ?
+%mor:	co|okay conj|so pro:per|you adv|just v|learn&PAST n:prop|English
+	prep|for n|pleasure coord|or ?
+*ST032:	&-ah &+may maybe for &-ahm &-t because &-ahm here the the
+	&-hm &-t the public administration try the teachers &+ha &-ah
+	have &-ahm have skills in English .
+%mor:	adv|maybe prep|for conj|because adv|here det:art|the det:art|the
+	det:art|the adj|public n|administrate&dv-TION v|try det:art|the
+	n|teach&dv-AGT-PL v|have v|have n|skill-PL prep|in n:prop|English .
+*ST127:	<&-huhuh> [>] .
+*ST032:	<and> [<] it's it's better for me if I &+h I have &-ah a
+	certification in English but not &-t not compulsory <but>
+	[>] it's better .
+%mor:	coord|and pro:per|it~cop|be&3S pro:per|it~cop|be&3S v|better
+	prep|for pro:obj|me conj|if pro:sub|I pro:sub|I v|have det:art|a
+	n|certify&dv-TION prep|in n:prop|English conj|but neg|not neg|not
+	adj|compulsory conj|but pro:per|it~cop|be&3S v|better .
+*ST127:	<yes> [<] .
+%mor:	co|yes .
+*ST032:	and and when my children are are old no cuando sean grandes ?
+%mor:	coord|and coord|and conj|when det:poss|my n|child&PL cop|be&PRES
+	cop|be&PRES adj|old qn|no adv|cuando cop|sean n:adj|grand-PL ?
+*ST127:	old older grown up <grown up> [>] ?
+%mor:	adj|old adj|old-CP part|grow&PASTP adv|up part|grow&PASTP adv|up ?
+*ST032:	<and I> [<] &-t I I go to travel with my husband &=laughs
+	around the world <and I> [>] .
+%mor:	coord|and pro:sub|I pro:sub|I pro:sub|I v|go prep|to n|travel
+	prep|with det:poss|my n|husband prep|around det:art|the n|world
+	coord|and pro:sub|I .
+*ST127:	<okay> [<] .
+%mor:	co|okay .
+*ST032:	for me it's it's it's good but I I don't know if I will have
+	money or time or .
+%mor:	prep|for pro:obj|me pro:per|it~cop|be&3S pro:per|it~cop|be&3S
+	pro:per|it~cop|be&3S adj|good conj|but pro:sub|I pro:sub|I
+	mod|do~neg|not v|know comp|if pro:sub|I mod|will v|have n|money
+	coord|or n|time coord|or .
+*ST127:	<&-huhuh> [>] .
+*ST032:	<but> [<] I I would to to try travel with a autocaravana or some
+	but I don't <know> [>] if if is possible .
+%mor:	conj|but pro:sub|I pro:sub|I mod|will&COND inf|to inf|to v|try
+	n|travel prep|with det:art|a n|autocaravana coord|or qn|some
+	conj|but pro:sub|I mod|do~neg|not v|know comp|if conj|if cop|be&3S
+	adj|possible .
+*ST127:	<&-huhuh> [<] okay &-ah yo aprendo &+e español &-pf okay por
+	qué por qué aprendo <español> [>] .
+%mor:	co|okay pro:sub|yo v|aprendo n|español co|okay prep|por pro:int|qué
+	prep|por pro:int|qué v|aprendo n|español .
+*ST032:	<xxx> [<] &=laughs .
+*ST127:	porque me encanta &+e el idioma <&-ah xxx> [>] !
+%mor:	conj|porque pro:obj|me v|encanta det:art|el n|idioma !
+*ST032:	<sí sí> [<] .
+%mor:	co|sí co|sí .
+*ST127:	&-ahm &-t en en los ochenta cuando &-ahm estaba en &-ah la
+	escuela &-ahm aprendía &-ah francés <y después la> [>] &+espa el
+	español .
+%mor:	prep|en prep|en det:art|los det:num|ochenta adv|cuando v|estaba
+	prep|en det:art|la n|escuela v|aprendía n|francés conj|y adv|después
+	det:art|la det:art|el n|español .
+*ST032:	<&-ah sí> [<] &-huhuh .
+%mor:	co|sí .
+*ST127:	&-ahm me me gustaba mucho &-ah leer &-ahm &-t aprender &-eh
+	los idiomas .
+%mor:	pro:obj|me pro:obj|me v|gustaba adv|mucho v|leer v|aprender
+	det:art|los n|idiomas .
+*ST032:	<&-huhuh> [>] .
+*ST127:	<pero> [<] me encantaba el español &-ah &+hac okay no después
+	de &-ahm salir de los institutos <etcétera> [>] .
+%mor:	conj|pero pro:obj|me v|encantaba det:art|el n|español co|okay qn|no
+	adv|después prep|de v|salir prep|de det:art|los n|institutos
+	n|etcétera .
+*ST032:	<sí> [<] .
+%mor:	co|sí .
+*ST127:	me &-eh &+em empecé a trabajar <&-ah> [>] .
+%mor:	pro:obj|me v|empecé prep|a v|trabajar .
+*ST032:	<&-huhuh> [<] .
+*ST127:	no no usaba los &+ling &-ah <los idiomas> [>] en absoluto .
+%mor:	co|no qn|no v|usaba det:art|los det:art|los n|idiomas prep|en
+	n|absoluto .
+*ST032:	<&-huhuh idiomas &-huhuh> [<] .
+%mor:	n|idiomas .
+*ST127:	&-ah pero todavía <&-ah> [>] &-t &-ahm &-t encantaba &-ah
+	los idiomas .
+%mor:	conj|pero adv|todavía v|encantaba det:art|los n|idiomas .
+*ST032:	<muy bien> [<] .
+%mor:	adv|muy adj|bien .
+*ST127:	&-ahm traté de aprender un poco de alemán .
+%mor:	v|traté prep|de v|aprender det:art|un det:qn|poco prep|de n|alemán .
+*ST032:	&-huhuh .
+*ST127:	de polaco which is &-mah es <muy> [>] muy difícil &=laughs .
+%mor:	prep|de n|polaco pro:rel|which cop|be&3S cop|es adv|muy adv|muy
+	adj|difícil .
+*ST032:	<polaco> [<] polaco vale I have a friend <&-ah> [>] .
+%mor:	n|polaco n|polaco co|vale pro:sub|I v|have det:art|a n|friend .
+*ST127:	<&-huhuh> [<] .
+*ST032:	he &+h he is married with a with a woman of Poland and he say is
+	very very difficult .
+%mor:	pro:sub|he pro:sub|he aux|be&3S part|marry-PASTP prep|with
+	det:art|a prep|with det:art|a n|woman prep|of n:prop|Poland
+	coord|and pro:sub|he v|say cop|be&3S adv|very adv|very adj|difficult
+	.
+*ST127:	&-huhuh <sí mucho más difícil> [>] .
+%mor:	co|sí det:qn|mucho adv|más adj|difícil .
+*ST032:	<polaco very very very> [<] .
+%mor:	n|polaco adv|very adv|very adv|very .
+*ST127:	&-ah aún más difícil que <&-ah que alemán sí> [>] &=laughs .
+%mor:	adv|aún adv|más adj|difícil conj|que conj|que n|alemán co|sí .
+*ST032:	<yes que alemán sí> [<] yes .
+%mor:	co|yes conj|que n|alemán co|sí co|yes .
+*ST127:	&-ah &+apre aprendí &-ah un poco de italiano <y> [>] suecia &+s
+	&+sue &=laughs .
+%mor:	v|aprendí det:art|un det:qn|poco prep|de n|italiano conj|y n|suecia .
+*ST032:	<&-wow> [<] &-ff a lot of of languages &-uh &-wow !
+%mor:	det:art|a n|lot prep|of prep|of n|language-PL !
+*ST127:	sí &-ahm pero cuando mi hija &-ahm &-t &+ma registró
+	<registró no> [>] ?
+%mor:	co|sí conj|pero adv|cuando det:poss|mi n|hija v|registró v|registró
+	co|no ?
+*ST032:	<marchó> [<] ?
+%mor:	v|marchó ?
+*ST127:	pardon ?
+%mor:	n|pardon ?
+*ST127:	<&-ah entró> [>] entró a la universidad .
+%mor:	v|entró v|entró prep|a det:art|la n|universidad .
+*ST032:	<marchó no regresó> [<] ?
+%mor:	v|marchó co|no v|regresó ?
+*ST127:	<&-ah> [>] .
+*ST032:	<ingresó> [<] <ingresó> [>] .
+%mor:	v|ingresó v|ingresó .
+*ST127:	<ingresó> [<] gracias ingresó &-ah &-ah &-t &-hm a la
+	universidad .
+%mor:	v|ingresó co|gracias v|ingresó prep|a det:art|la n|universidad .
+*ST032:	&-huhuh .
+*ST127:	&-t yo decidí que sí ahora es el <el> [>] tiempo .
+%mor:	pro:sub|yo v|decidí pro:rel|que co|sí adv|ahora cop|es det:art|el
+	det:art|el n|tiempo .
+*ST032:	<sí> [<] <sí> [>] .
+%mor:	co|sí co|sí .
+*ST127:	<que> [<] &-hm &-ahm hacer lo que <&-ahm> [>] me encanta .
+%mor:	pro:rel|que v|hacer det:art|lo pro:rel|que pro:obj|me v|encanta .
+*ST032:	<lo que sí sí sí> [<] .
+%mor:	det:art|lo pro:rel|que co|sí co|sí co|sí .
+*ST127:	&-ahm okay sí &-ahm &-t empecé un un título con la universidad
+	a &+d a distancia <open> [>] university .
+%mor:	co|okay co|sí v|empecé det:art|un det:art|un n|título prep|con
+	det:art|la n|universidad prep|a prep|a n|distancia adj|open
+	n|university .
+*ST032:	<yes> [<] .
+%mor:	co|yes .
+*ST127:	&-ahm &-eh desde hace tres años &-ahm sí sí &-ahm .
+%mor:	prep|desde adv|hace det:num|tres n|años co|sí co|sí .
+*ST032:	muy bien .
+%mor:	adv|muy adj|bien .
+*ST127:	pero <&-t es &+d> [>] +/.
+%mor:	conj|pero cop|es +/.
+*ST032:	<I my> [<] my intention I I I said &-ah to my friends when I
+	have eighteen <or nineteen> [>] .
+%mor:	pro:sub|I co|my det:poss|my n|intention pro:sub|I pro:sub|I
+	pro:sub|I v|say&PAST prep|to det:poss|my n|friend-PL conj|when
+	pro:sub|I v|have det:num|eighteen coord|or det:num|nineteen .
+*ST127:	<you &-huhuh> [<] <when you &-huhuh nineteen yes> [>] &=laughs .
+%mor:	pro:per|you conj|when pro:per|you det:num|nineteen co|yes .
+*ST032:	<I finish learning> [<] &=laughs it's my it's my &-hm &-t
+	objective my target .
+%mor:	pro:sub|I v|finish part|learn-PRESP pro:per|it~cop|be&3S
+	det:poss|my pro:per|it~cop|be&3S det:poss|my n|objective det:poss|my
+	n|target .
+*ST127:	&-huhuh .
+*ST032:	I I have a long time I I no ?
+%mor:	pro:sub|I pro:sub|I v|have det:art|a adj|long n|time pro:sub|I
+	pro:sub|I co|no ?
+*ST127:	<okay> [>] .
+%mor:	co|okay .
+*ST032:	<I> [<] &-huhuh .
+%mor:	pro:sub|I .
+*ST127:	okay &-ahm yes you you can take your time if you're learning for
+	pleasure <&-ahm> [>] .
+%mor:	co|okay co|yes pro:per|you pro:per|you mod|can v|take det:poss|your
+	n|time conj|if pro:per|you~aux|be&PRES part|learn-PRESP prep|for
+	n|pleasure .
+*ST032:	<yes> [<] yes I <yes> [>] .
+%mor:	co|yes co|yes pro:sub|I co|yes .
+*ST127:	<&-huhuh> [<] .
+*ST032:	I I &-t &-ah nowadays I am &-hm work and but but &-ah si
+	encuentro &+i in &-ahm in ten years ten or twenty years I I I
+	am &-ah jubilada cómo se llama ?
+%mor:	pro:sub|I pro:sub|I adv:tem|nowadays pro:sub|I cop|be&1S n|work
+	coord|and conj|but conj|but co|si v|encuentro adv|in prep|in
+	det:num|ten n|year-PL det:num|ten coord|or det:num|twenty n|year-PL
+	pro:sub|I pro:sub|I pro:sub|I cop|be&1S adj|jubilada pro:int|cómo
+	pro:pers|se v|llama ?
+*ST127:	&-huhuh retired <you you> [>] .
+%mor:	v|retire-PAST pro:per|you pro:per|you .
+*ST032:	<retired> [<] and I .
+%mor:	v|retire-PAST coord|and pro:sub|I .
+*ST127:	you will retire in <xxx years> [>] .
+%mor:	pro:per|you mod|will v|retire prep|in n|year-PL .
+*ST032:	<and I try to> [<] to study languages .
+%mor:	coord|and pro:sub|I v|try prep|to prep|to n|study n|language-PL .
+*ST127:	<&-huhuh> [>] .
+*ST032:	<or> [<] travel <or> [>] .
+%mor:	coord|or n|travel coord|or .
+*ST127:	<&-huhuh> [<] .
+*ST032:	if my salud <si mi salud lo> [>] permite .
+%mor:	comp|if det:poss|my n|salud conj|si det:poss|mi n|salud det:art|lo
+	v|permite .
+*ST127:	<your health> [<] your health yes .
+%mor:	det:poss|your n|health det:poss|your n|health co|yes .
+*ST032:	if my health .
+%mor:	comp|if det:poss|my n|health .
+*ST127:	&-huhuh .
+*ST032:	&-hm it's is is good &=laughs .
+%mor:	pro:per|it~cop|be&3S aux|be&3S cop|be&3S adj|good .
+*ST127:	okay &-ah have you learned any other languages or it's just
+	English ?
+%mor:	co|okay v|have pro:per|you v|learn-PAST qn|any qn|other
+	n|language-PL coord|or pro:per|it~cop|be&3S adj|just n:prop|English
+	?
+*ST032:	&-af I in when I am young in school I &-t I study I learn
+	in &-eh French I I I speak better French than than English .
+%mor:	pro:sub|I adv|in conj|when pro:sub|I cop|be&1S adj|young prep|in
+	n|school pro:sub|I pro:sub|I v|study pro:sub|I v|learn prep|in
+	n:prop|French pro:sub|I pro:sub|I pro:sub|I v|speak v|better
+	n:prop|French prep|than prep|than n:prop|English .
+*ST127:	okay <&-huhuh> [>] .
+%mor:	co|okay .
+*ST032:	<French> [<] &-ah Spanish and Catalan <Catalan> [>] .
+%mor:	n:prop|French n:prop|Spanish coord|and n:prop|Catalan
+	n:prop|Catalan .
+*ST127:	<&-hm> [<] &-huhuh okay that makes sense yes .
+%mor:	co|okay comp|that v|make-3S n|sense co|yes .
+*ST032:	but Catalan and Spanish &-eh for me it's very easy .
+%mor:	conj|but n:prop|Catalan coord|and n:prop|Spanish prep|for
+	pro:obj|me pro:per|it~cop|be&3S adv|very adj|ease&dn-Y .
+*ST127:	<&-huhuh> [>] .
+*ST032:	<because> [<] it's bilingüe .
+%mor:	conj|because pro:per|it~cop|be&3S n|bilingüe .
+*ST127:	<yes> [>] .
+%mor:	co|yes .
+*ST032:	<and> [<] &+Fre &-ah English is the is the difficult for me so
+	<xxx> [>] .
+%mor:	coord|and n:prop|English cop|be&3S det:art|the cop|be&3S
+	det:art|the adj|difficult prep|for pro:obj|me adv|so .
+*ST127:	<yes yes> [<] it's a a very different language <&-ahm> [>] .
+%mor:	co|yes co|yes pro:per|it~cop|be&3S det:art|a det:art|a adv|very
+	adj|different n|language .
+*ST032:	<yes> [<] .
+%mor:	co|yes .
+*ST127:	xxx like Catalan &+fra el francés <española> [>] &-ahm son &+len
+	lenguas &-ah romanzas sí sí ?
+%mor:	prep|like n:prop|Catalan det:art|el n|francés n|española cop|son
+	n|lenguas adj|romanzas co|sí co|sí ?
+*ST032:	<yes> [<] <románicas> [>] .
+%mor:	co|yes adj|románicas .
+*ST127:	<xxx> [<] románicas sí sí .
+%mor:	adj|románicas co|sí co|sí .
+*ST032:	&-huhuh .
+*ST127:	&-huhuh &-ah yes okay shall we <do> [>] the next part of the
+	tandem ?
+%mor:	co|yes co|okay mod|shall pro:sub|we v|do det:art|the adj|next
+	n|part prep|of det:art|the n|tandem ?
+*ST032:	<okay> [<] the next task <the next tú> [>] no ?
+%mor:	co|okay det:art|the adj|next n|task det:art|the adv|next pro:sub|tú
+	co|no ?
+*ST127:	<yes> [<] see solution .
+%mor:	co|yes co|see n|solution .
+*ST032:	&-ah solution vale vale <solution> [>] .
+%mor:	n|solution co|vale co|vale n|solution .
+*ST127:	<and &-ah> [<] &-ah &-ah &-ah &-na &-na &-na .
+%mor:	coord|and .
+@Comment:	singing to herself.
+*ST032:	&-ay .
+*ST127:	okay .
+%mor:	co|okay .
+*ST032:	a ver &-ah we hope you got to know your tandem partner better
+	&-ah vale <&-ah the> [>] .
+%mor:	prep|a v|ver pro:sub|we v|hope pro:per|you v|get&PAST inf|to
+	v|know det:poss|your n|tandem n|partner v|better co|vale det:art|the
+	.
+*ST127:	<yes I did> [<] &-huhuh .
+%mor:	co|yes pro:sub|I v|do&PAST .
+@End
