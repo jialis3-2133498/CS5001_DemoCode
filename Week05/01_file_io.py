@@ -11,7 +11,6 @@ def main(files):
         print("Can't open results for writing")
         print(e)
         return
-    out.write("\nHere is a line\n")
 
     for filename in files:
         try:
@@ -30,7 +29,15 @@ def main(files):
         # Read the second line in a file
         # split() breaks down words into single letters, split()[1:] means
         #  only take letters from index 1
-        print(author)
+
+        line_count = 0
+        for _line in f:
+            line_count += 1
+        out.write("Processed poem: \n")
+        out.write(f"Title: {title}\n")
+        out.write(f"Author: {author}\n")
+        out.write(f"Lines: {line_count}\n")
+        out.write("\n")
 
 
 main(sys.argv[1:])

@@ -1,0 +1,4 @@
+1. Regular expression: a simple but powerful languages for matching(finding, replacing) substrings. Found in 
+    Web(Google Search), Unix/Linux(Command line utilities: grep; Editors: Emacs), Scripting/Programming(Python, C++)
+2. Specifically, regular expression is a pattern of character used to match strings in a Search
+3. how do they work? metacharacters have special meaning(., *, +). Non-metacharacters match themselves. 
