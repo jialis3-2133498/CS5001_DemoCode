@@ -1,4 +1,5 @@
 import sys
+import math
 
 # Write a program that takes a series of numbers as
 # command line arguments and prints out a list of only
@@ -20,7 +21,17 @@ def main(numbers):
     Prints out perfect squares
     [Number] -> None
     """
-    pass
+    def is_perfect_sqrt(numbers):
+        for each_num in numbers:
+            each_num = int(each_num)
+            if math.sqrt(each_num.is_integer()):
+                return True
+            return False
+    new_nums = filter(
+        is_perfect_sqrt,
+        numbers
+    )
+    return print(list(new_nums))
 
 
 main(sys.argv[1:])

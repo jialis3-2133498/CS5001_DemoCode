@@ -73,4 +73,6 @@ def is_prime(num):
     return True
 
 
-main()
+if __name__ == "__main__":  # __name__ is the file that is calling
+    # "__main__" means this file's name
+    main()
