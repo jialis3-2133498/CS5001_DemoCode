@@ -16,7 +16,7 @@ class Card:
         """
         Provide a string representation of a card object
         """
-        return f"{self.name} of {self.suit}"
+        return f"{self.rank} of {self.suit}"
 
     def num_value(self):
         """

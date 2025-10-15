@@ -17,7 +17,7 @@ class Deck:
         ranks = ["ace", "2", "3", "4", "5"
                  "6", "7", "8", "9", "jack"
                  "queen", "king"]
-        self.cards = [Card[suit, rank]
+        self.cards = [Card(suit, rank)
                       for suit in suits
                       for rank in ranks]
         shuffle(self.cards)

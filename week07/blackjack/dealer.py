@@ -20,7 +20,7 @@ class Dealer:
         """
         Deal a single card from the deck
         """
-        return self.deck.deal_one()
+        return self._deck.deal_one()
     
     property  # what does it mean?
 
