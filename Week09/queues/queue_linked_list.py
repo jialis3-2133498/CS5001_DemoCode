@@ -27,6 +27,7 @@ class Queue:
 
     def is_empty(self):
         if self.first:
+            # None is false
             return False
         else:
             return True

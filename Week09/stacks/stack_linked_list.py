@@ -1,4 +1,5 @@
 from node import Node
+# LIFO means last in first out, like stacking plates, using list to do
 
 
 class Stack:
