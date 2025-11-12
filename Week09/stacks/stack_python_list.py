@@ -13,9 +13,11 @@ class Stack:
         return str(self.items)
 
     def push(self, item):
+        # Push a stuff into a stack
         self.items.append(item)
 
     def pop(self):
+        # Get out a stuff from a stack
         return self.items.pop()
 
     def peek(self):

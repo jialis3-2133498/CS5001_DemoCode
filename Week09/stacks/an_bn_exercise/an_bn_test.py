@@ -10,10 +10,15 @@ def test_accept():
     assert an_bn.accept("aaaaabbbbb")
     an_bn.clear()
 
+
+def test_accept_ba():
+    an_bn = AnBn()
+    assert an_bn.accept("ba")
+    an_bn.clear()
+
     assert not an_bn.accept("aaaaabbbb")
     an_bn.clear()
-    assert not an_bn.accept("ba")
-    an_bn.clear()
+
     assert not an_bn.accept("a")
     an_bn.clear()
     assert not an_bn.accept("abb")
